@@ -1,6 +1,6 @@
 <div align="center">
 
 # twpalab  
-Organization for repository develop inside the DARTWARS prokect 
+Organization for repositories develop inside the DARTWARS project
 
 </div>
