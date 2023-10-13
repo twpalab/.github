@@ -1,4 +1,4 @@
-Repository for the QISMIB organization web pages
+Community health files for the twpalab repository
 -------------------------------------------
 
-[https://github.com/qismib](https://github.com/qismib)
+[https://github.com/twpalab](https://github.com/twpalab)
